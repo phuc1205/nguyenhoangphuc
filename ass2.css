@@ -1,5 +1,6 @@
 body{
     padding: 5px;
+    margin: 5px;
 }
 .container>.menu>header>img{
     width: 100%;
@@ -99,17 +100,6 @@ footer{
     display: inline-block;
 }
 
-.diachi{
-    width: 50%;
-    height: 30px;
-    float: left;
-}
-
-.bangdo{
-    width: 50%;
-    height: 50px;
-    float: left;
-}
 
 
 
